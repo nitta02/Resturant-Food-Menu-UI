@@ -1,10 +1,14 @@
 import 'package:flutter/material.dart';
 
-class Chiness_Food extends StatelessWidget {
-  const Chiness_Food({super.key});
+class ChinessFood extends StatelessWidget {
+  const ChinessFood({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(
+      decoration: BoxDecoration(
+        color: Colors.red,
+      ),
+    );
   }
 }
