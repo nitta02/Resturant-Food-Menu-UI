@@ -22,7 +22,7 @@ class _FoodCatagoryState extends State<FoodCatagory> {
     const Indian_Food(),
     const Mexican_Food(),
     const Italian_Food(),
-    const Chiness_Food(),
+    const ChinessFood(),
     const Bengali_Food(),
   ];
   @override
