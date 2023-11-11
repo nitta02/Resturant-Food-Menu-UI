@@ -1,16 +1,25 @@
-# food_menu_app_ui
+# Hi, I'm Nitta Ranjan Sarker! 👋
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Food App UI
 
-A few resources to get you started if this is your first Flutter project:
+This Project basically design for food app ui.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Other Common Github Profile Sections
+- 🔭 I’m currently working on [Profile-O](https://github.com/nitta02/profile_app)
+
+- 🌱 I’m currently learning **Flutter, Kotlin**
+
+- 👯 I’m looking to collaborate on [Quotes_App](https://github.com/nitta02/Quotes_App)
+
+- 🤝 I’m looking for help with [Quotes_App](https://github.com/nitta02/Quotes_App)
+
+- 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
+
+- 📫 How to reach me **nittaranjantanmoy23@gmail.com**
+
+
+## Screenshots
+![food app ui](https://github.com/nitta02/Food-App-UI/assets/110607962/a1cda426-311a-42b4-a050-c5613f2cd53e)
