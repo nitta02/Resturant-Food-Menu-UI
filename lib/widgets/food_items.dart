@@ -16,14 +16,14 @@ class FoodItems extends StatelessWidget {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          Padding(
-            padding: const EdgeInsets.only(
+          const Padding(
+            padding: EdgeInsets.only(
               left: 10.0,
               top: 20.0,
             ),
             child: Column(
               children: [
-                const SizedBox(
+                SizedBox(
                   width: 180,
                   child: ListTile(
                     title: Text(
