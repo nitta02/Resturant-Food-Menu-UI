@@ -2,11 +2,11 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:food_menu_app_ui/catagory_foodPages.dart/Italian_food.dart';
-import 'package:food_menu_app_ui/catagory_foodPages.dart/bengali_food.dart';
-import 'package:food_menu_app_ui/catagory_foodPages.dart/chines_food.dart';
-import 'package:food_menu_app_ui/catagory_foodPages.dart/indian_food.dart';
-import 'package:food_menu_app_ui/catagory_foodPages.dart/mexican_food.dart';
+import 'package:food_menu_app_ui/screens/catagory_foodPages.dart/Italian_food.dart';
+import 'package:food_menu_app_ui/screens/catagory_foodPages.dart/bengali_food.dart';
+import 'package:food_menu_app_ui/screens/catagory_foodPages.dart/chines_food.dart';
+import 'package:food_menu_app_ui/screens/catagory_foodPages.dart/indian_food.dart';
+import 'package:food_menu_app_ui/screens/catagory_foodPages.dart/mexican_food.dart';
 import 'package:food_menu_app_ui/constants/color_constants.dart';
 import 'package:food_menu_app_ui/constants/constants_items.dart';
 import 'package:food_menu_app_ui/widgets/food_items.dart';
@@ -67,7 +67,6 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
-
 
 class FoodCatagory extends StatefulWidget {
   const FoodCatagory({super.key});

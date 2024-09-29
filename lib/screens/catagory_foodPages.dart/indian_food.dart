@@ -48,6 +48,6 @@ class Indian_Food extends StatelessWidget {
           )
         ],
       ),
-    );;
+    );
   }
 }
